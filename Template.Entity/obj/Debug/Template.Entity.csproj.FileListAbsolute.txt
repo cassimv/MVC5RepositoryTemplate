@@ -1,0 +1,5 @@
+E:\Template\Template.BusinessLogic\Template.Entity\bin\Debug\Template.Entity.dll
+E:\Template\Template.BusinessLogic\Template.Entity\bin\Debug\Template.Entity.pdb
+E:\Template\Template.BusinessLogic\Template.Entity\obj\Debug\Template.Entity.csprojResolveAssemblyReference.cache
+E:\Template\Template.BusinessLogic\Template.Entity\obj\Debug\Template.Entity.dll
+E:\Template\Template.BusinessLogic\Template.Entity\obj\Debug\Template.Entity.pdb

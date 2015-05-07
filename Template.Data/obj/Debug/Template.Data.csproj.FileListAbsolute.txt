@@ -1,0 +1,85 @@
+E:\Template\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll.config
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.pdb
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.dll
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.xml
+E:\Template\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Template\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.dll
+E:\Template\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.pdb
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll.config
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.pdb
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.pdb
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Owin.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - Without MVC Layer\Template.BusinessLogic\Template.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll.config
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.pdb
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Owin.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.pdb
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll.config
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Template.Data.pdb
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Owin.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.dll
+C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.pdb

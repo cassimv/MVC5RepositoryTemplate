@@ -1,0 +1,43 @@
+﻿@model Template.Model.RegisterModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/shared/_BootstrapLayout.basic.cshtml";
+}
+<div>
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary(true)
+        <fieldset>
+            <!-- Form Name -->
+            <legend>Register</legend>
+
+            <!-- Text input-->
+            <div class="control-group">
+                <label class="control-label">@Html.LabelFor(m => m.UserName)</label>
+                <div class="controls">
+                    @Html.TextBoxFor(m => m.UserName)
+                    <p class="help-block">@Html.ValidationMessageFor(m => m.UserName)</p>
+                </div>
+            </div>
+
+            <!-- Password input-->
+            <div class="control-group">
+                <label class="control-label">@Html.LabelFor(m => m.Password)</label>
+                <div class="controls">
+                    @Html.PasswordFor(m => m.Password)
+                    <p class="help-block">@Html.ValidationMessageFor(m => m.Password)</p>
+                </div>
+            </div>
+
+            <!-- Button -->
+            <div class="control-group">
+                <div class="controls">
+                    <button id="Log In" name="Log In" class="btn btn-primary">Log In</button>
+                </div>
+            </div>
+
+        </fieldset>
+    }
+</div>
+

@@ -109,3 +109,4 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\D
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Newtonsoft.Json.pdb

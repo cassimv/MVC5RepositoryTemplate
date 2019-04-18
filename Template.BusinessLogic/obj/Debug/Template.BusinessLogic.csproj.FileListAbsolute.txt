@@ -140,3 +140,4 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLo
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Newtonsoft.Json.pdb

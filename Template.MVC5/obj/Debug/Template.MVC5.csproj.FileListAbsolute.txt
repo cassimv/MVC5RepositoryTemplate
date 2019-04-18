@@ -52,6 +52,8 @@ C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Ident
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.MVC5\bin\Antlr3.Runtime.dll
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.MVC5\bin\WebGrease.dll
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.MVC5\bin\Antlr3.Runtime.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.csprojAssemblyReference.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.MVC5.dll.config
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.MVC5.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.MVC5.pdb
@@ -70,9 +72,9 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\S
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Mvc.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Optimization.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Razor.dll
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Webpages.Deployment.dll
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Webpages.dll
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Webpages.Razor.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.WebPages.Deployment.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.WebPages.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.WebPages.Razor.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.BusinessLogic.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.Model.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\WebGrease.dll
@@ -91,22 +93,24 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\M
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Microsoft.Owin.Security.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Microsoft.Owin.Security.Cookies.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Microsoft.Owin.Security.OAuth.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Newtonsoft.Json.pdb
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Newtonsoft.Json.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Optimization.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Razor.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Webpages.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Webpages.Deployment.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Webpages.Razor.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Helpers.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Mvc.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Optimization.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.Razor.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.WebPages.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.WebPages.Deployment.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\System.Web.WebPages.Razor.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.Data.pdb
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.Data.dll.config
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.Service.pdb
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Template.Service.dll.config
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.csprojAssemblyReference.cache
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\obj\Debug\Template.MVC5.pdb
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\Newtonsoft.Json.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\EntityFramework.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\EntityFramework.SqlServer.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.MVC5\bin\EntityFramework.SqlServer.xml

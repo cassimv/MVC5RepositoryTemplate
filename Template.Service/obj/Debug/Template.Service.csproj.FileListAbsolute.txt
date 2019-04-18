@@ -58,6 +58,8 @@ C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Ident
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Service\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.csprojAssemblyReference.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bin\Debug\Template.Service.dll.config
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bin\Debug\Template.Service.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bin\Debug\Template.Service.pdb
@@ -72,8 +74,6 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bi
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bin\Debug\EntityFramework.SqlServer.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.csprojAssemblyReference.cache
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Service\obj\Debug\Template.Service.pdb

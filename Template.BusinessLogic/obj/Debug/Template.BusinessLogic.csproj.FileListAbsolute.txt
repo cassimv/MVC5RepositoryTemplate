@@ -102,6 +102,8 @@ C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Ident
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.BusinessLogic\bin\Debug\Microsoft.Owin.Security.OAuth.xml
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.csprojAssemblyReference.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Template.BusinessLogic.dll.config
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Template.BusinessLogic.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Template.BusinessLogic.pdb
@@ -134,10 +136,8 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLo
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Microsoft.Owin.Security.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Newtonsoft.Json.pdb
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Newtonsoft.Json.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.csprojAssemblyReference.cache
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\obj\Debug\Template.BusinessLogic.pdb
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.BusinessLogic\bin\Debug\Newtonsoft.Json.pdb

@@ -104,9 +104,9 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\D
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Newtonsoft.Json.pdb
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Newtonsoft.Json.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.dll
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.pdb
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Newtonsoft.Json.pdb

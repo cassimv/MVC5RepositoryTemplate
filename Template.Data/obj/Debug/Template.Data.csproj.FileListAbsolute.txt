@@ -83,3 +83,30 @@ C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Ident
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.csprojResolveAssemblyReference.cache
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.dll
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Data\obj\Debug\Template.Data.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Template.Data.dll.config
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Template.Data.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Template.Data.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\EntityFramework.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Newtonsoft.Json.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Owin.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\bin\Debug\Newtonsoft.Json.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.csprojAssemblyReference.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.csproj.CoreCompileInputs.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.csproj.CopyComplete
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Data\obj\Debug\Template.Data.pdb

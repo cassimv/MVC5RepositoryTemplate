@@ -31,3 +31,19 @@ C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Ident
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\cassimv.PCWATCH.000\Desktop\Template - With MVC Layer And ASP.NET Identity - try this\Template.BusinessLogic\Template.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Template.Model.dll.config
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Template.Model.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Template.Model.pdb
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\EntityFramework.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.csprojAssemblyReference.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.csproj.CoreCompileInputs.cache
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.csproj.CopyComplete
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.dll
+C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.pdb

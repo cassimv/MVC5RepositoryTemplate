@@ -42,7 +42,6 @@ C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.csprojAssemblyReference.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.csproj.CoreCompileInputs.cache
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.csproj.CopyComplete
 C:\TFSServices\MVC5RepositoryTemplate\MVC5RepositoryTemplate\Template.Model\obj\Debug\Template.Model.dll

@@ -7,4 +7,4 @@ Updates in this release
 1) Used one context object
 2) Implemented Roles
 3) Updated to MVC 5
-4) Updated various references
+4) Updated framework and packages to 4.7.2
